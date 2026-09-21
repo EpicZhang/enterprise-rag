@@ -1,1 +1,0 @@
-# semiconductor-rag-knowledge-base
